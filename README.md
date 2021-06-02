@@ -5,5 +5,7 @@ Projeto realizado para as aulas de Desenvolvimento WEB da FATEC Cruzeiro no curs
 Project developed in FATEC Cruzeiro for WEB Dev classes.
 
 Banco de dados: "unimed".
+
 Tabelas: "proposta".
+
 Colunas: "nome" VARCHAR (100), "idade" VARCHAR(3), "plano" VARCHAR (15), "total" FLOAT.
