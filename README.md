@@ -1,8 +1,5 @@
-# LHM-Cursos-e-Faculdade
-Projetos rápidos realizados por meio da minha faculdade (FATEC Cruzeiro) no curso de Análise e Desenvolvimento de Sistemas.
+# Aplicação simples de uma concessionária
 
-"Quick-development" Projects done in college (FATEC Cruzeiro) during my System Analysis and Development graduation.
+Projeto realizado para as aulas de Desneolvimento WEB da FATEC Cruzeiro no curso de Análise e Desenvolvimento de Sistemas.
 
-Atividades de cursos adicionais da área de TI.
-
-Development activities from aditional courses in IT area.
+Project developed in FATEC Cruzeiro for WEB Dev classes.
